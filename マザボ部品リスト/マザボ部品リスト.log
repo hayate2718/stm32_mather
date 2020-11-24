@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020/W32TeX) (preloaded format=uplatex 2020.11.8)  24 NOV 2020 15:59
+This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020/W32TeX) (preloaded format=uplatex 2020.11.8)  24 NOV 2020 17:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,7 +355,7 @@ LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 18.
 
-Overfull \hbox (29.05025pt too wide) in paragraph at lines 18--61
+Overfull \hbox (29.05025pt too wide) in paragraph at lines 18--65
 [][][][] 
  []
 
@@ -369,10 +369,10 @@ d.
 Here is how much of TeX's memory you used:
  6252 strings out of 479950
  94090 string characters out of 5887418
- 416000 words of memory out of 5000000
+ 417000 words of memory out of 5000000
  23381 multiletter control sequences out of 15000+600000
  573501 words of font info for 68 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  68i,6n,75p,237b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on マザボ部品リスト.dvi (1 page, 5216 bytes).
+Output written on マザボ部品リスト.dvi (1 page, 5744 bytes).
